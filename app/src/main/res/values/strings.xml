@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GadgetsRepresentation</string>
+    <string name="search_title">Поиск</string>
+    <string name="search_button_update">update</string>
+    <string name="search_not_found">Nothing_was_found</string>
+    <string name="search_internet_problem">Internet connection problem</string>
+    <string name="search_internet_problem_additional">The download failed. Check the connection</string>
+</resources>

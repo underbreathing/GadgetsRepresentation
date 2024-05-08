@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#008000</color>
+    <color name="light_gray">#E6E8EB</color>
+    <color name="brown">#795548</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#1A1B22</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3772E7</color>
+    <color name="text_gray">#AEAFB4</color>
+
+    <!--    settings_switch-->
+    <color name="track_activated_color">@color/blue</color>
+    <color name="track_deactivated_color">@color/text_gray</color>
+    <color name="thumb_activated_color">#9FBBF3</color>
+    <color name="thumb_deactivated_color">@color/light_gray</color>
+</resources>
